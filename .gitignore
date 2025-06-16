@@ -1,1 +1,49 @@
+# Node modules (dependencies)
+node_modules/
 
+# Build outputs
+dist/
+build/
+.out/
+.next/
+.vercel/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+
+# AWS SAM / CDK / Terraform artifacts
+.aws-sam/
+cdk.out/
+terraform.tfstate
+terraform.tfstate.*
+
+# Optional cache
+.cache/
+.pnp/
+.pnp.js
+
+# TypeScript / Vite specific
+*.tsbuildinfo
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Ignore public file uploads (if any)
+public/uploads/
