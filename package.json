@@ -1,1 +1,8 @@
-
+{
+  "name": "cti-sharing-platform",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
