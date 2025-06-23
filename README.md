@@ -26,6 +26,12 @@ Cyber threats are increasing in complexity and frequency. Many organizations in 
 
 ---
 
+## ✨ DEMO (Latest version)
+
+- Access the demo page [here](http://indo-cti-platform-stg.s3-website-ap-southeast-1.amazonaws.com/)
+
+---
+
 ## 🛠️ Upcoming Features
 
 - [ ] Contribution form for submitting indicators (IP, domain, hash)
